@@ -1,0 +1,52 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langserve
+
+# LLM providers
+openai
+langchain-openai
+langchain-groq
+langchain-huggingface
+huggingface_hub
+sentence-transformers
+
+# Vector stores
+chromadb
+faiss-cpu
+langchain-chroma
+duckdb
+
+# Data loading and parsing
+pypdf
+pymupdf
+beautifulsoup4
+unstructured
+validators==0.28.1
+numexpr
+pandas
+
+# External data sources
+arxiv
+wikipedia
+duckduckgo_search==5.3.1b1
+youtube_transcript_api
+pytube
+
+# Backend / API
+fastapi
+uvicorn
+sse_starlette
+
+# Database (optional / future use)
+mysql-connector-python
+SQLAlchemy
+
+# Frontend
+streamlit
+requests
+
+# Utilities
+python-dotenv
